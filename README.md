@@ -68,6 +68,9 @@ This project is designed to help beginners practice core Python concepts by buil
 
 ---
 
+## Explanation Video
+https://drive.google.com/file/d/1DSmgQ0ytOBDH3BLBhgB8Ly3XncQIRw0G/view?usp=sharing
+
 ## 👨‍💻 Author
 
 **Soni Dhara**
